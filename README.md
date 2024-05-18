@@ -28,5 +28,6 @@
     <li><a href="https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt">NoAppDownload</a></li>
     <li><a href="https://github.com/Cats-Team/AdRules">Cats-Team/AdRules AdBlock List Lite</a></li>
     <li><a href="https://github.com/badmojr/1Hosts">1Hosts (Lite)</a></li>
+    <li><a href="https://github.com/hagezi/dns-blocklists">hagezi/dns-blocklists pro</a></li>
 </ul>
 </details>
