@@ -54,7 +54,7 @@ application:
         path: https://o0.pages.dev/Lite/adblock.txt
 
       - name: hagezi/dns-blocklists pro
-        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
 
     #本地规则文件
     local:
