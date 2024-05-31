@@ -29,6 +29,6 @@
     <li><a href="https://github.com/Cats-Team/AdRules">Cats-Team/AdRules AdBlock List Lite</a></li>
     <li><a href="https://github.com/badmojr/1Hosts">1Hosts (Lite)</a></li>
     <li><a href="https://github.com/hagezi/dns-blocklists">hagezi/dns-blocklists normal</a></li>
-    <li><a href="https://github.com/8680/GOODBYEADS>8680/GOODBYEADS</a></li>
+    <li><a href="https://github.com/8680/GOODBYEADS">8680/GOODBYEADS</a></li>
 </ul>
 </details>
