@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-02 11:08:27
+! Last Modified: 2024-06-02 12:07:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -575,7 +575,6 @@
 127.0.0.1 adx.kuaiyiad.com
 127.0.0.1 search.mgc-games.com
 127.0.0.1 adstats.mgc-games.com
-||192.168.112.2o7.net^
 127.0.0.1 api.snmi.cn
 127.0.0.1 s.snmi.cn
 127.0.0.1 fms.ipinyou.com
@@ -986,6 +985,7 @@
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
+||192.168.112.2o7.net^
 127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
 127.0.0.1 c.admob.com
