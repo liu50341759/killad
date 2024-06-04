@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-04 08:31:15
+! Last Modified: 2024-06-04 09:52:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -116,6 +116,7 @@
 127.0.0.1 puma-api.iqiyi.com
 127.0.0.1 rd596n.jomodns.com
 127.0.0.1 baiducdncmn-gd.inter.iqiyi.com
+||192.168.112.2o7.net^
 127.0.0.1 bdcdncmn-gd.inter.71edge.com
 127.0.0.1 mixer.cupid.ptqy.gitv.tv
 127.0.0.1 msg.ptqy.gitv.tv
@@ -174,7 +175,6 @@
 127.0.0.1 pg.aty.sohu.com
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 v.aty.sohu.com
-||192.168.112.2o7.net^
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 da.mmarket.com
