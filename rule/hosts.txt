@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-08 16:07:59
+! Last Modified: 2024-06-08 17:07:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -263,7 +263,6 @@
 127.0.0.1 m.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 orange-dc.youku.com
-||192.168.112.2o7.net^
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 video-ad.sm.cn
 127.0.0.1 rest.irs01.com
@@ -474,6 +473,7 @@
 127.0.0.1 veim.lrswl.com
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 hybird.rayjump.com
+||192.168.112.2o7.net^
 127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 dig.zjurl.cn
 127.0.0.1 www.qchannel01.cn
