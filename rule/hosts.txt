@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-08 13:06:56
+! Last Modified: 2024-06-08 14:08:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -982,6 +982,7 @@
 127.0.0.1 c.greystripe.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
+||192.168.112.2o7.net^
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
@@ -1557,7 +1558,6 @@
 127.0.0.1 ads.ninemsn.com.au
 127.0.0.1 ad.sohu.com
 127.0.0.1 ads.pubmatic.com
-||192.168.112.2o7.net^
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.service.kugou.com
