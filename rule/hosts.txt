@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-12 12:08:27
+! Last Modified: 2024-06-12 13:07:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -250,6 +250,7 @@
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
+||192.168.112.2o7.net^
 127.0.0.1 conf.funshion.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 vs.funshion.com
@@ -259,7 +260,6 @@
 127.0.0.1 ykad-gateway.youku.com
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
-||192.168.112.2o7.net^
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 m.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
