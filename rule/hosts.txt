@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-12 14:09:55
+! Last Modified: 2024-06-12 15:17:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -254,7 +254,6 @@
 127.0.0.1 pub.funshion.com
 127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
-||192.168.112.2o7.net^
 127.0.0.1 stat.funshion.net
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 ykad-gateway.youku.com
@@ -1520,6 +1519,7 @@
 127.0.0.1 ad.greedland.net
 127.0.0.1 adimages.sina.com.hk
 127.0.0.1 adimg.daumcdn.net
+||192.168.112.2o7.net^
 127.0.0.1 adimg.deviantart.net
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 adimg.uve.weibo.com
