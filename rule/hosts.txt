@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-12 17:07:32
+! Last Modified: 2024-06-12 18:07:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -429,6 +429,7 @@
 127.0.0.1 dataf.ads.oppomobile.com
 127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 uapi.ads.oppomobile.com
+||192.168.112.2o7.net^
 127.0.0.1 adlog.vivo.com.cn
 127.0.0.1 adreq.vivo.com.cn
 127.0.0.1 adsdk.vivo.com.cn
@@ -532,7 +533,6 @@
 127.0.0.1 adls.suning.com
 127.0.0.1 ssp.1nmob.com
 127.0.0.1 tl.oneway.mobi
-||192.168.112.2o7.net^
 127.0.0.1 in.vipliangmei.com
 127.0.0.1 sdk.open.talk.getui.net
 127.0.0.1 sdk.open.talk.gepush.com
