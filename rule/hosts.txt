@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-12 19:04:20
+! Last Modified: 2024-06-12 20:12:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -200,6 +200,7 @@
 127.0.0.1 topapi.cp12.ott.cibntv.net
 127.0.0.1 ad.video.51togic.com
 127.0.0.1 ssp.cibn.starschina.com
+||192.168.112.2o7.net^
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 ads.aplus.pptv.com
@@ -354,7 +355,6 @@
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 list.z.qingting.fm
-||192.168.112.2o7.net^
 127.0.0.1 adlaunch.qingting.fm
 127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad.ximalaya.com
