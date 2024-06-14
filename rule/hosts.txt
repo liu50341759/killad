@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-14 13:06:53
+! Last Modified: 2024-06-14 14:10:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -440,7 +440,6 @@
 127.0.0.1 ort-stsdk.vivo.com.cn
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 prt-stsdk.vivo.com.cn
-||192.168.112.2o7.net^
 127.0.0.1 stnetsdk.vivo.com.cn
 127.0.0.1 stsdk.vivo.com.cn
 127.0.0.1 bronrt.stsdk.vivo.com.cn
@@ -1528,6 +1527,7 @@
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 admd.yam.com
 127.0.0.1 admeld.adnxs.com
+||192.168.112.2o7.net^
 127.0.0.1 adm.icast.cn
 127.0.0.1 adm.leju.sina.com.cn
 127.0.0.1 ad.netowl.jp
