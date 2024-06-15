@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-16 00:08:03
+! Last Modified: 2024-06-16 01:05:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -35,6 +35,7 @@
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t4.a.market.xiaomi.com
+||192.168.112.2o7.net^
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 nav.browser.miui.com
@@ -271,7 +272,6 @@
 127.0.0.1 timeserver.cnzz.net
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ykad-data.youku.com
-||192.168.112.2o7.net^
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashx.ut.youku.com
 127.0.0.1 adx-open-service.youku.com
