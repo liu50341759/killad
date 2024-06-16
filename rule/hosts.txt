@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-17 01:03:59
+! Last Modified: 2024-06-17 02:07:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1581,6 +1581,7 @@
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 www.admarket.mobi
 127.0.0.1 z.sora.yoyi.com.cn
+||192.168.112.2o7.net^
 127.0.0.1 03.lzzncm.com
 127.0.0.1 04.lzzncm.com
 127.0.0.1 all.cnzz.com.danuoyi.tbcache.com
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
