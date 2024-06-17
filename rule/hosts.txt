@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-18 04:05:06
+! Last Modified: 2024-06-18 05:07:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -807,6 +807,7 @@
 127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 cdn.appnext.com
+||192.168.112.2o7.net^
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 events.mz.unity3d.com
 127.0.0.1 umeng.com.gds.alibabadns.com
@@ -1113,7 +1114,6 @@
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adsrich.qq.com
-||192.168.112.2o7.net^
 127.0.0.1 d3g.qq.com
 127.0.0.1 jqmt.qq.com
 127.0.0.1 jsqmt.qq.com
