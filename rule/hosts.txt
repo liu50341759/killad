@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-21 15:08:02
+! Last Modified: 2024-06-21 16:09:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -240,6 +240,7 @@
 127.0.0.1 cws-cctv.conviva.com
 127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
+||192.168.112.2o7.net^
 127.0.0.1 a.cntv.cn
 127.0.0.1 ad.cctv.com
 127.0.0.1 d.cntv.cn
@@ -989,7 +990,6 @@
 127.0.0.1 strikeadcdn.s3.amazonaws.com
 127.0.0.1 c.admob.com
 127.0.0.1 media.admob.com
-||192.168.112.2o7.net^
 127.0.0.1 met.adwhirl.com
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 mobileads.msn.com
