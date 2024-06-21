@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-22 00:07:36
+! Last Modified: 2024-06-22 01:07:16
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -251,7 +251,6 @@
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adm.funshion.com
 127.0.0.1 conf.funshion.com
-||192.168.112.2o7.net^
 127.0.0.1 pub.funshion.com
 127.0.0.1 vs.funshion.com
 127.0.0.1 rt.funshion.net
@@ -437,6 +436,7 @@
 127.0.0.1 adxlog.vivo.com.cn
 127.0.0.1 stnetsdk.appstore.vivo.com.cn
 127.0.0.1 monitor-stsdk.vivo.com.cn
+||192.168.112.2o7.net^
 127.0.0.1 onrt-stsdk.vivo.com.cn
 127.0.0.1 ort-stsdk.vivo.com.cn
 127.0.0.1 pnrt-stsdk.vivo.com.cn
