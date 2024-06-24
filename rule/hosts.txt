@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-24 08:33:41
+! Last Modified: 2024-06-24 09:55:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -298,7 +298,6 @@
 127.0.0.1 mcfg.sandai.net
 127.0.0.1 biz5.sandai.net
 127.0.0.1 3.iscrv.com
-||192.168.112.2o7.net^
 127.0.0.1 www.wjxcdn.com
 127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 ebp.renren.com
@@ -1410,6 +1409,7 @@
 127.0.0.1 r2.adwo.com
 127.0.0.1 r3.adwo.com
 127.0.0.1 sdu.adwo.com
+||192.168.112.2o7.net^
 127.0.0.1 static.adwo.com
 127.0.0.1 track.adwo.com
 127.0.0.1 www.adwo.com
