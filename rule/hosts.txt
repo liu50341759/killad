@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-25 14:10:01
+! Last Modified: 2024-06-25 15:06:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -277,6 +277,7 @@
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
+||192.168.112.2o7.net^
 127.0.0.1 openstorage.ad.cmvideo.cn
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ggx02.miguvideo.com
@@ -856,7 +857,6 @@
 127.0.0.1 ads.xxxad.net
 127.0.0.1 adcontent.saymedia.com
 127.0.0.1 ads.saymedia.com
-||192.168.112.2o7.net^
 127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 bigmobileads.com
