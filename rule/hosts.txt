@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-25 20:12:15
+! Last Modified: 2024-06-25 21:09:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -470,7 +470,6 @@
 127.0.0.1 www.meipian7.cn
 127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
 127.0.0.1 uvu.nojmlxq.cn
-||192.168.112.2o7.net^
 127.0.0.1 veim.lrswl.com
 127.0.0.1 adsdk.yandex.ru
 127.0.0.1 hybird.rayjump.com
@@ -809,6 +808,7 @@
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 cdn.appnext.com
 127.0.0.1 imasdk.googleapis.com
+||192.168.112.2o7.net^
 127.0.0.1 events.mz.unity3d.com
 127.0.0.1 umeng.com.gds.alibabadns.com
 127.0.0.1 errnewlog.umeng.com
