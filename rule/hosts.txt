@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-27 03:03:17
+! Last Modified: 2024-06-27 04:08:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -911,7 +911,6 @@
 127.0.0.1 a.applovin.com
 127.0.0.1 d.applovin.com
 127.0.0.1 pdn.applovin.com
-||192.168.112.2o7.net^
 127.0.0.1 mobpartner.mobi
 127.0.0.1 go.mobpartner.mobi
 127.0.0.1 r.mobpartner.mobi
@@ -1651,3 +1650,4 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+||192.168.112.2o7.net^
