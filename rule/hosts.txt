@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-26 18:07:08
+! Last Modified: 2024-06-26 19:06:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -185,7 +185,6 @@
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 vstat.my.tv.sohu.com
 127.0.0.1 vstat.v.blog.sohu.com
-||192.168.112.2o7.net^
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 download.wan.sohu.com
 127.0.0.1 g.jssdk.net
@@ -358,6 +357,7 @@
 127.0.0.1 adlaunch.qingting.fm
 127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad.ximalaya.com
+||192.168.112.2o7.net^
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adse.wsa.ximalaya.com
 127.0.0.1 adsebs.ximalaya.com
