@@ -1,8 +1,9 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-30 11:07:37
+! Last Modified: 2024-06-30 12:08:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -909,7 +910,6 @@
 127.0.0.1 cdn1.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 a.applovin.com
-||192.168.112.2o7.net^
 127.0.0.1 d.applovin.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 mobpartner.mobi
