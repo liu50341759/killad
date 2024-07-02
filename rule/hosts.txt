@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-02 22:07:06
+! Last Modified: 2024-07-02 23:07:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -241,6 +240,7 @@
 127.0.0.1 cws-cctv.conviva.com
 127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
+||192.168.112.2o7.net^
 127.0.0.1 a.cntv.cn
 127.0.0.1 ad.cctv.com
 127.0.0.1 d.cntv.cn
