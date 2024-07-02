@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-02 19:06:29
+! Last Modified: 2024-07-02 20:12:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -881,6 +880,7 @@
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 ads.admarvel.com
 127.0.0.1 netdna.reporo.net
+||192.168.112.2o7.net^
 127.0.0.1 www.eltrafiko.com
 127.0.0.1 cdn.trafficforce.com
 127.0.0.1 gts-ads.twistbox.com
