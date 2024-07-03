@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-03 10:25:25
+! Last Modified: 2024-07-03 11:07:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -403,6 +403,7 @@
 127.0.0.1 ccdace.hupu.com
 127.0.0.1 hd.hupu.com
 127.0.0.1 glores2.taisantech.com
+||192.168.112.2o7.net^
 127.0.0.1 sanme2.taisantech.com
 127.0.0.1 madeqr.com
 127.0.0.1 mon.snssdk.com
@@ -863,7 +864,6 @@
 127.0.0.1 oasc04012.247realmedia.com
 127.0.0.1 assets.cntdy.mobi
 127.0.0.1 ad.leadboltapps.net
-||192.168.112.2o7.net^
 127.0.0.1 api.airpush.com
 127.0.0.1 ad.where.com
 127.0.0.1 cdn1.crispadvertising.com
