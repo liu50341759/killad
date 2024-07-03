@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-03 16:09:36
+! Last Modified: 2024-07-03 17:07:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -592,6 +592,7 @@
 127.0.0.1 gi.getui.net
 127.0.0.1 b-gi.gepush.com
 127.0.0.1 b-gi.getui.net
+||192.168.112.2o7.net^
 127.0.0.1 s.trafficjam.cn
 127.0.0.1 wkrd.tingyun.com
 127.0.0.1 mon.ad.xelements.cn
@@ -1237,7 +1238,6 @@
 127.0.0.1 alogus.umeng.com
 127.0.0.1 alogsus.umeng.com
 127.0.0.1 ulogs.umeng.com
-||192.168.112.2o7.net^
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 api.wsq.umeng.com
