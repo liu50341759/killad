@@ -1,8 +1,9 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-03 23:07:20
+! Last Modified: 2024-07-04 00:08:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -217,7 +218,6 @@
 127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 ott.da.mgtv.com
 127.0.0.1 ott2.da.mgtv.com
-||192.168.112.2o7.net^
 127.0.0.1 ott3.da.mgtv.com
 127.0.0.1 ott-v0-al.data.mgtv.com
 127.0.0.1 ott.v1.data.mgtv.com
