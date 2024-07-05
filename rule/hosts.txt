@@ -1,8 +1,9 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-05 09:54:03
+! Last Modified: 2024-07-05 10:25:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -774,7 +775,6 @@
 127.0.0.1 s.jpush.cn
 127.0.0.1 adx.sogaha.cn
 127.0.0.1 api.jialiangad.com
-||192.168.112.2o7.net^
 127.0.0.1 track.adxwork.com
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 p1.adkwai.com
