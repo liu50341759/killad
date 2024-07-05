@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-05 23:06:58
+! Last Modified: 2024-07-06 00:08:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -590,6 +590,7 @@
 127.0.0.1 ma-adx.ctrip.com
 127.0.0.1 gi.gepush.com
 127.0.0.1 gi.getui.net
+||192.168.112.2o7.net^
 127.0.0.1 b-gi.gepush.com
 127.0.0.1 b-gi.getui.net
 127.0.0.1 s.trafficjam.cn
@@ -1260,7 +1261,6 @@
 127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 c.mse.360.cn
 127.0.0.1 service.jiagu.360.cn
-||192.168.112.2o7.net^
 127.0.0.1 s.360.cn
 127.0.0.1 p.s.360.cn
 127.0.0.1 a.appjiagu.com
