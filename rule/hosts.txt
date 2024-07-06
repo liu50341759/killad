@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-06 13:07:29
+! Last Modified: 2024-07-06 14:08:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -689,7 +689,6 @@
 127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 b2-data.ads.heytapmobi.com
-||192.168.112.2o7.net^
 127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 adsfs-sdkconfig.heytapimage.com
 127.0.0.1 optimus-ads.amap.com
@@ -1188,6 +1187,7 @@
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 sjarvis.taobao.com
 127.0.0.1 audid-api.taobao.com
+||192.168.112.2o7.net^
 127.0.0.1 adashx4yt.m.taobao.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 umdc.aliapp.org
