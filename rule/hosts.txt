@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-08 20:13:51
+! Last Modified: 2024-07-08 21:10:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -425,6 +425,7 @@
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 b1.ads.oppomobile.com
 127.0.0.1 bjdata.ads.oppomobile.com
+||192.168.112.2o7.net^
 127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 dataf.ads.oppomobile.com
 127.0.0.1 g1.ads.oppomobile.com
@@ -1277,7 +1278,6 @@
 127.0.0.1 bu2.duba.com
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 ad.sinovision.net
-||192.168.112.2o7.net^
 127.0.0.1 adsys.sinovision.net
 127.0.0.1 www.admaji.com
 127.0.0.1 ad.cacafly.com
