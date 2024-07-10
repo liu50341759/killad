@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-10 14:09:53
+! Last Modified: 2024-07-10 15:07:37
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -96,7 +96,6 @@
 127.0.0.1 paopao0.qiyipic.com
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
-||192.168.112.2o7.net^
 127.0.0.1 paopao3.qiyipic.com
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
@@ -409,6 +408,7 @@
 127.0.0.1 mon.snssdk.com
 127.0.0.1 extlog.snssdk.com
 127.0.0.1 toblog.ctobsnssdk.com
+||192.168.112.2o7.net^
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 toutiao-frontier.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com
