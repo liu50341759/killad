@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-13 06:05:46
+! Last Modified: 2024-07-13 07:06:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -985,6 +984,7 @@
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 admarvel.s3.amazonaws.com
+||192.168.112.2o7.net^
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
