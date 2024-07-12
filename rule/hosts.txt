@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-12 13:06:58
+! Last Modified: 2024-07-12 14:09:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -662,6 +662,7 @@
 127.0.0.1 me.xdrig.com
 127.0.0.1 api.ad.yipinread.com
 127.0.0.1 dpush-api.domob.cn
+||192.168.112.2o7.net^
 127.0.0.1 engine.lvehaisen.com
 127.0.0.1 sdk.tf.360.cn
 127.0.0.1 sdkrec.tf.360.cn
@@ -828,7 +829,6 @@
 127.0.0.1 adservice.google.com.au
 127.0.0.1 ads.traffichunt.com
 127.0.0.1 googleads.g.doubleclick.net
-||192.168.112.2o7.net^
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
