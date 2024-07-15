@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-15 19:04:21
+! Last Modified: 2024-07-15 20:13:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -56,7 +56,6 @@
 127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
-||192.168.112.2o7.net^
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
@@ -395,6 +394,7 @@
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 d5.sina.com.cn
+||192.168.112.2o7.net^
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
