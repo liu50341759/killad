@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-15 12:11:06
+! Last Modified: 2024-07-15 13:07:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -223,6 +223,7 @@
 127.0.0.1 ys.da.mgtv.com
 127.0.0.1 ynet.da.mgtv.com
 127.0.0.1 pc.da.mgtv.com
+||192.168.112.2o7.net^
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
@@ -262,7 +263,6 @@
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 m.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
-||192.168.112.2o7.net^
 127.0.0.1 orange-dc.youku.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 video-ad.sm.cn
