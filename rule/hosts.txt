@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-15 20:13:28
+! Last Modified: 2024-07-15 21:11:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -394,7 +394,6 @@
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 d5.sina.com.cn
-||192.168.112.2o7.net^
 127.0.0.1 d7.sina.com.cn
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
@@ -708,6 +707,7 @@
 127.0.0.1 ads.weilitoutiao.net
 127.0.0.1 ssp-api.domob.cn
 127.0.0.1 ssp-event.domob.cn
+||192.168.112.2o7.net^
 127.0.0.1 du.163.com
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
