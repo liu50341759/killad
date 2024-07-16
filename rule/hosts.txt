@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-17 04:07:19
+! Last Modified: 2024-07-17 05:07:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -15,6 +15,7 @@
 127.0.0.1 x.adnet.qq.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 c.gdt.qq.com
+||192.168.112.2o7.net^
 127.0.0.1 d.gdt.qq.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 m.gdt.qq.com
@@ -129,7 +130,6 @@
 127.0.0.1 news-l.play.ott.video.qq.com
 127.0.0.1 omgmta.play.ott.video.qq.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
-||192.168.112.2o7.net^
 127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 omgmta.play.aiseet.atianqi.com
