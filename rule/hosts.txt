@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-18 17:07:25
+! Last Modified: 2024-07-18 18:07:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -1041,6 +1041,7 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 idm-su.baidu.com
+||192.168.112.2o7.net^
 127.0.0.1 idm.bce.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
