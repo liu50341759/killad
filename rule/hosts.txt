@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-18 10:28:29
+! Last Modified: 2024-07-18 11:09:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -399,6 +398,7 @@
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 adx.hupu.com
+||192.168.112.2o7.net^
 127.0.0.1 goblin.hupu.com
 127.0.0.1 shence.hupu.com
 127.0.0.1 ccdace.hupu.com
