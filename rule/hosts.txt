@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-07-21 20:20:35
+! Last Modified: 2024-07-22 02:13:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 localhost
@@ -362,7 +362,6 @@
 127.0.0.1 adsebs.ximalaya.com
 127.0.0.1 adsehera.ximalaya.com
 127.0.0.1 adbehavior.ximalaya.com
-||192.168.112.2o7.net^
 127.0.0.1 adwbs.ximalaya.com
 127.0.0.1 adbs.ximalaya.com
 127.0.0.1 dns.ximalaya.com
@@ -441,6 +440,7 @@
 127.0.0.1 ort-stsdk.vivo.com.cn
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 prt-stsdk.vivo.com.cn
+||192.168.112.2o7.net^
 127.0.0.1 stnetsdk.vivo.com.cn
 127.0.0.1 stsdk.vivo.com.cn
 127.0.0.1 bronrt.stsdk.vivo.com.cn
