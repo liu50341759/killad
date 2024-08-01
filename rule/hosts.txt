@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-01 08:59:08
+! Last Modified: 2024-08-01 14:16:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -975,6 +974,7 @@
 127.0.0.1 ww84.smartadserver.com
 127.0.0.1 www.smartadserver.com
 127.0.0.1 www2.smartadserver.com
+||192.168.112.2o7.net^
 127.0.0.1 www3.smartadserver.com
 127.0.0.1 www4.smartadserver.com
 127.0.0.1 ads.mobclix.com
