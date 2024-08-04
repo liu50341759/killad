@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-04 02:15:02
+! Last Modified: 2024-08-04 08:58:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 ||192.168.112.2o7.net^
