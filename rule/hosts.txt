@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-08 16:09:06
+! Last Modified: 2024-08-08 20:40:29
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -1021,7 +1021,6 @@
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
-||192.168.112.2o7.net^
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 afs.googlesyndication.com
@@ -1226,6 +1225,7 @@
 127.0.0.1 static-ssl.mediav.com
 127.0.0.1 static.mediav.com
 127.0.0.1 t.dsp.mediav.com
+||192.168.112.2o7.net^
 127.0.0.1 track.mediav.com
 127.0.0.1 tran.mediav.com
 127.0.0.1 view.mediav.com
