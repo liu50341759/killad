@@ -1,7 +1,7 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-08 14:17:30
-! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+! Last Modified: 2024-08-08 16:09:06
+! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
 ::1 localhost
@@ -654,7 +654,6 @@
 127.0.0.1 api.aiclk.com
 127.0.0.1 update0.aiclk.com
 127.0.0.1 sdk-ab-config.aiclk.com
-||192.168.112.2o7.net^
 127.0.0.1 sdk-globalconfig.aiclk.com
 127.0.0.1 adx.maplehaze.cn
 127.0.0.1 log.kajicam.com
@@ -1022,6 +1021,7 @@
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
+||192.168.112.2o7.net^
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 afs.googlesyndication.com
