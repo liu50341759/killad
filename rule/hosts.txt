@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-10 20:38:04
+! Last Modified: 2024-08-11 02:26:15
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -800,6 +800,7 @@
 127.0.0.1 rt.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 telemetry.sdk.inmobi.com
+||192.168.112.2o7.net^
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
 127.0.0.1 api.youngle.tech
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
