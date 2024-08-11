@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-11 09:43:51
+! Last Modified: 2024-08-11 14:29:16
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -330,7 +330,6 @@
 127.0.0.1 sdk.cferw.com
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 wxa.wxs.qq.com
-||192.168.112.2o7.net^
 127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
@@ -1465,6 +1464,7 @@
 127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 a2.img.static.youmi.net
 127.0.0.1 a3.img.static.youmi.net
+||192.168.112.2o7.net^
 127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 static.youmi.net
