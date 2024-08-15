@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-15 02:28:13
+! Last Modified: 2024-08-15 09:26:08
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -312,6 +312,7 @@
 127.0.0.1 analytics3.dopool.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
+||192.168.112.2o7.net^
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 ad.molitv.cn
 127.0.0.1 vyk.admaster.com.cn
@@ -326,7 +327,6 @@
 127.0.0.1 api.newad.ifeng.com
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 adv.fjtv.net
-||192.168.112.2o7.net^
 127.0.0.1 dsa-mfp.fengshows.cn
 127.0.0.1 sdk.cferw.com
 127.0.0.1 ad.weixin.qq.com
