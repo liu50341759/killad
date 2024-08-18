@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-18 14:27:48
+! Last Modified: 2024-08-18 20:39:23
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -333,6 +333,7 @@
 127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
+||192.168.112.2o7.net^
 127.0.0.1 wxsnsad.tc.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pgdt.ugdtimg.com
@@ -920,7 +921,6 @@
 127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 suo.lp.mydas.mobi
 127.0.0.1 aio.lp.mydas.mobi
-||192.168.112.2o7.net^
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 media.mydas.mobi
 127.0.0.1 ads.mp.mydas.mobi
