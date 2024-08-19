@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-19 02:25:52
+! Last Modified: 2024-08-19 09:39:23
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -893,7 +893,6 @@
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 a.vserv.mobi
 127.0.0.1 admin.vserv.mobi
-||192.168.112.2o7.net^
 127.0.0.1 c.vserv.mobi
 127.0.0.1 ads.vserv.mobi
 127.0.0.1 sf.vserv.mobi
@@ -1491,6 +1490,7 @@
 127.0.0.1 et.w.inmobi.com
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 www.inmobi.com
+||192.168.112.2o7.net^
 127.0.0.1 ad1.greedland.net
 127.0.0.1 ad1.udn.com
 127.0.0.1 ad2.sina.com.cn
