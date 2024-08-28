@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-28 09:40:49
+! Last Modified: 2024-08-28 14:30:01
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -133,7 +133,6 @@
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 omgmta.play.aiseet.atianqi.com
 127.0.0.1 mtrace.play.aiseet.atianqi.com
-||192.168.112.2o7.net^
 127.0.0.1 btrace.play.aiseet.atianqi.com
 127.0.0.1 news-l.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
@@ -373,6 +372,7 @@
 127.0.0.1 ad.tencentmusic.com
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adcdn.tencentmusic.com
+||192.168.112.2o7.net^
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 g1.163.com
