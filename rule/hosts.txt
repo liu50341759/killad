@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-08-31 02:29:34
+! Last Modified: 2024-08-31 09:41:15
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -61,7 +61,6 @@
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 vt.ipinyou.com
-||192.168.112.2o7.net^
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 msg.71.am
 127.0.0.1 msg.qy.net
@@ -1651,3 +1650,4 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+||192.168.112.2o7.net^
