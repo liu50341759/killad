@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-03 14:30:27
+! Last Modified: 2024-09-03 20:42:32
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -480,6 +480,7 @@
 127.0.0.1 www.qchannel04.cn
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 d.qchannel03.cn
+||192.168.112.2o7.net^
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 pg-ad-b1.ws.126.net
@@ -799,7 +800,6 @@
 127.0.0.1 ms.applovin.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 d.applvn.com
-||192.168.112.2o7.net^
 127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
