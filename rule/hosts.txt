@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-08 02:27:20
+! Last Modified: 2024-09-08 09:48:57
 ! Homepage: https://github.com/liu50341759/killad
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -127,6 +126,7 @@
 127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 p-l.play.aiseet.atianqi.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
+||192.168.112.2o7.net^
 127.0.0.1 news-l.play.ott.video.qq.com
 127.0.0.1 omgmta.play.ott.video.qq.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
