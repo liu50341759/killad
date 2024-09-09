@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-09 14:33:44
+! Last Modified: 2024-09-09 20:43:36
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -413,7 +413,6 @@
 127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 gecko-lq.snssdk.com
 127.0.0.1 bds.snssdk.com
-||192.168.112.2o7.net^
 127.0.0.1 mcs.snssdk.com
 127.0.0.1 sdfp.snssdk.com
 127.0.0.1 abtest-ch.snssdk.com
@@ -583,6 +582,7 @@
 127.0.0.1 vapi.tiandi.com
 127.0.0.1 s.adxvip.com
 127.0.0.1 c-gtc.getui.net
+||192.168.112.2o7.net^
 127.0.0.1 b-gtc.gepush.com
 127.0.0.1 b-gtc.getui.net
 127.0.0.1 talk.nz4.gepush.com
