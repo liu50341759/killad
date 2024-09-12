@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-12 20:42:22
+! Last Modified: 2024-09-13 02:30:58
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -315,7 +315,6 @@
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 ad.molitv.cn
 127.0.0.1 vyk.admaster.com.cn
-||192.168.112.2o7.net^
 127.0.0.1 ems.cp12.wasu.tv
 127.0.0.1 pl.cp12.wasu.tv
 127.0.0.1 valatm.cp12.wasu.tv
@@ -666,6 +665,7 @@
 127.0.0.1 engine.lvehaisen.com
 127.0.0.1 sdk.tf.360.cn
 127.0.0.1 sdkrec.tf.360.cn
+||192.168.112.2o7.net^
 127.0.0.1 sdk.s.360.cn
 127.0.0.1 me.cpatrk.net
 127.0.0.1 ap.cpatrk.net
