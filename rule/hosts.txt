@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-16 20:45:44
+! Last Modified: 2024-09-17 02:30:47
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -271,7 +271,6 @@
 127.0.0.1 timeserver.cnzz.net
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ykad-data.youku.com
-||192.168.112.2o7.net^
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashx.ut.youku.com
 127.0.0.1 adx-open-service.youku.com
@@ -727,6 +726,7 @@
 127.0.0.1 adx.hzbxm.com
 127.0.0.1 api.verify.mob.com
 127.0.0.1 pasta.esfile.duapps.com
+||192.168.112.2o7.net^
 127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 ss.chelaile.net.cn
