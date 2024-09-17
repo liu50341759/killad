@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-17 09:20:57
+! Last Modified: 2024-09-17 14:27:43
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -102,6 +102,7 @@
 127.0.0.1 static.g.ppstream.com
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 msga.71.am
+||192.168.112.2o7.net^
 127.0.0.1 androidgo.duapp.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 api.cupid.qiyi.com
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
