@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-18 20:43:02
+! Last Modified: 2024-09-19 02:30:05
 ! Homepage: https://github.com/liu50341759/killad
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -469,6 +468,7 @@
 127.0.0.1 assets.ckjr001.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
 127.0.0.1 www.meipian7.cn
+||192.168.112.2o7.net^
 127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
 127.0.0.1 uvu.nojmlxq.cn
 127.0.0.1 veim.lrswl.com
