@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-22 02:28:17
+! Last Modified: 2024-09-22 09:53:33
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -759,6 +759,7 @@
 127.0.0.1 mobilead.kuwo.cn
 127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 splashimgbssdl.yun.kugou.com
+||192.168.112.2o7.net^
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 config.unityads.unitychina.cn
 127.0.0.1 api.openinstall.io
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
