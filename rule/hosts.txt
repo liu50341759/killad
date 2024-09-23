@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-23 02:28:08
+! Last Modified: 2024-09-23 09:47:59
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -262,7 +262,6 @@
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 m.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
-||192.168.112.2o7.net^
 127.0.0.1 orange-dc.youku.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 video-ad.sm.cn
@@ -277,6 +276,7 @@
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 ggx.cmvideo.cn
+||192.168.112.2o7.net^
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 openstorage.ad.cmvideo.cn
 127.0.0.1 ggx01.miguvideo.com
