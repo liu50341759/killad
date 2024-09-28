@@ -1,8 +1,9 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-09-28 02:31:05
+! Last Modified: 2024-09-28 09:47:01
 ! Homepage: https://github.com/liu50341759/killad
 
+||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -97,7 +98,6 @@
 127.0.0.1 paopao1.qiyipic.com
 127.0.0.1 paopao2.qiyipic.com
 127.0.0.1 paopao3.qiyipic.com
-||192.168.112.2o7.net^
 127.0.0.1 count.game.pps.tv
 127.0.0.1 game.pps.tv
 127.0.0.1 static.g.ppstream.com
