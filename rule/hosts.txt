@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-07 14:33:00
+! Last Modified: 2024-10-07 20:47:18
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -226,7 +226,6 @@
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
-||192.168.112.2o7.net^
 127.0.0.1 py.da.mgtv.com
 127.0.0.1 v1-play.log.mgtv.com
 127.0.0.1 v2.da.mgtv.com
@@ -1651,3 +1650,4 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+||192.168.112.2o7.net^
