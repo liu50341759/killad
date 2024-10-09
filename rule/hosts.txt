@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-09 20:45:16
+! Last Modified: 2024-10-10 02:30:52
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -245,7 +245,6 @@
 127.0.0.1 d.cntv.cn
 127.0.0.1 adguanggao.eee114.com
 127.0.0.1 cctv.adsunion.com
-||192.168.112.2o7.net^
 127.0.0.1 adstore-1252524079.file.myqcloud.com
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
 127.0.0.1 aa0.pub.funshion.com
@@ -1164,6 +1163,7 @@
 127.0.0.1 unidesk.alicdn.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 baichuan-sdk.alicdn.com
+||192.168.112.2o7.net^
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 proxy-mob-cld.alicdn.com
