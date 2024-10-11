@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-11 09:47:23
+! Last Modified: 2024-10-11 14:32:05
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -84,7 +84,6 @@
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 notice.iqiyi.com
-||192.168.112.2o7.net^
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
@@ -242,6 +241,7 @@
 127.0.0.1 galaxy.bjcathay.com
 127.0.0.1 rtas.videocc.net
 127.0.0.1 a.cntv.cn
+||192.168.112.2o7.net^
 127.0.0.1 ad.cctv.com
 127.0.0.1 d.cntv.cn
 127.0.0.1 adguanggao.eee114.com
