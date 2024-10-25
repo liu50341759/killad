@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-10-25 20:45:41
+! Last Modified: 2024-10-26 02:30:56
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -214,7 +214,6 @@
 127.0.0.1 plt.data.pplive.com
 127.0.0.1 web.data.pplive.com
 127.0.0.1 mobile.da.mgtv.com
-||192.168.112.2o7.net^
 127.0.0.1 mobile2.da.mgtv.com
 127.0.0.1 ott.da.mgtv.com
 127.0.0.1 ott2.da.mgtv.com
@@ -659,6 +658,7 @@
 127.0.0.1 adx.maplehaze.cn
 127.0.0.1 log.kajicam.com
 127.0.0.1 conf.xdrig.com
+||192.168.112.2o7.net^
 127.0.0.1 api-ad.kajicam.com
 127.0.0.1 me.xdrig.com
 127.0.0.1 api.ad.yipinread.com
