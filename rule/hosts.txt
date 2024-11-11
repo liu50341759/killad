@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-11 09:48:50
+! Last Modified: 2024-11-11 14:32:03
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -199,6 +199,7 @@
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 topapi.cp12.ott.cibntv.net
 127.0.0.1 ad.video.51togic.com
+||192.168.112.2o7.net^
 127.0.0.1 ssp.cibn.starschina.com
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 pptv.m.cn.miaozhen.com
@@ -1650,4 +1651,3 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
