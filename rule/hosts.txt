@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-12 09:45:28
+! Last Modified: 2024-11-12 14:31:31
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -373,7 +373,6 @@
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 adexpo.tencentmusic.com
-||192.168.112.2o7.net^
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 g1.163.com
 127.0.0.1 nex.163.com
@@ -1446,6 +1445,7 @@
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 tyaqy.m.cn.miaozhen.com
+||192.168.112.2o7.net^
 127.0.0.1 tytx.m.cn.miaozhen.com
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 yktd.m.cn.miaozhen.com
