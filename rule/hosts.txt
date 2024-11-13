@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-13 20:45:38
+! Last Modified: 2024-11-14 02:30:41
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -364,6 +364,7 @@
 127.0.0.1 adbehavior.ximalaya.com
 127.0.0.1 adwbs.ximalaya.com
 127.0.0.1 adbs.ximalaya.com
+||192.168.112.2o7.net^
 127.0.0.1 dns.ximalaya.com
 127.0.0.1 mobwsa.ximalaya.com
 127.0.0.1 location.ximalaya.com
@@ -481,7 +482,6 @@
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 d.qchannel03.cn
 127.0.0.1 b.qchannel03.cn
-||192.168.112.2o7.net^
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 pg-ad-b2.ws.126.net
