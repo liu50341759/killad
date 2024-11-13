@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-13 09:47:51
+! Last Modified: 2024-11-13 14:31:44
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -534,6 +534,7 @@
 127.0.0.1 tl.oneway.mobi
 127.0.0.1 in.vipliangmei.com
 127.0.0.1 sdk.open.talk.getui.net
+||192.168.112.2o7.net^
 127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 ddd.1sapp.com
 127.0.0.1 trk1.17admob.com
@@ -847,7 +848,6 @@
 127.0.0.1 www.mmnetwork.mobi
 127.0.0.1 img.ads.huntmad.com
 127.0.0.1 creative1cdn.mobfox.com
-||192.168.112.2o7.net^
 127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 s3.phluant.com
 127.0.0.1 c.vrvm.com
