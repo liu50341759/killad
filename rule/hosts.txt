@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-16 20:42:57
+! Last Modified: 2024-11-17 02:29:22
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -828,6 +828,7 @@
 127.0.0.1 adservice.google.com.au
 127.0.0.1 ads.traffichunt.com
 127.0.0.1 googleads.g.doubleclick.net
+||192.168.112.2o7.net^
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
@@ -1352,7 +1353,6 @@
 127.0.0.1 corebug.adsame.com
 127.0.0.1 dcci.adsame.com
 127.0.0.1 demo.adsame.com
-||192.168.112.2o7.net^
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 easynews.adsame.com
 127.0.0.1 hnb2c.adsame.com
