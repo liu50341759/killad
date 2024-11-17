@@ -1,8 +1,9 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-17 20:42:48
+! Last Modified: 2024-11-18 02:29:55
 ! Homepage: https://github.com/liu50341759/killad
 
+||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -204,7 +205,6 @@
 127.0.0.1 pptv.m.cn.miaozhen.com
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 app.aplus.pptv.com
-||192.168.112.2o7.net^
 127.0.0.1 as.aplus.pptv.com
 127.0.0.1 de.as.pptv.com
 127.0.0.1 jp.as.pptv.com
