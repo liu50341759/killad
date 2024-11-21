@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-21 20:49:08
+! Last Modified: 2024-11-22 02:32:44
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -399,6 +399,7 @@
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 adx.hupu.com
 127.0.0.1 goblin.hupu.com
+||192.168.112.2o7.net^
 127.0.0.1 shence.hupu.com
 127.0.0.1 ccdace.hupu.com
 127.0.0.1 hd.hupu.com
@@ -420,7 +421,6 @@
 127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 bdapi.ads.oppomobile.com
-||192.168.112.2o7.net^
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 sms.ads.oppomobile.com
