@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-22 16:18:13
+! Last Modified: 2024-11-22 20:47:52
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -309,7 +309,6 @@
 127.0.0.1 cdn.adm.myhayo.com
 127.0.0.1 engine.tuia.cn
 127.0.0.1 ad-cache.dopool.com
-||192.168.112.2o7.net^
 127.0.0.1 analytics3.dopool.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 app.starschina.com
@@ -1651,4 +1650,5 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+||192.168.112.2o7.net^
 ||plausible-c440kw8.135.181.83.58.sslip.io^
