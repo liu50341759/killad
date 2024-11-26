@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-26 14:34:02
+! Last Modified: 2024-11-26 20:49:50
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -1352,6 +1352,7 @@
 127.0.0.1 corebug.adsame.com
 127.0.0.1 dcci.adsame.com
 127.0.0.1 demo.adsame.com
+||192.168.112.2o7.net^
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 easynews.adsame.com
 127.0.0.1 hnb2c.adsame.com
@@ -1650,5 +1651,4 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
-||192.168.112.2o7.net^
 ||plausible-c440kw8.135.181.83.58.sslip.io^
