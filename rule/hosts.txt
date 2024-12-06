@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-06 14:34:28
+! Last Modified: 2024-12-06 20:49:36
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -249,6 +249,7 @@
 127.0.0.1 adstore-index-1252524079.file.myqcloud.com
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
+||192.168.112.2o7.net^
 127.0.0.1 adm.funshion.com
 127.0.0.1 conf.funshion.com
 127.0.0.1 pub.funshion.com
@@ -1172,7 +1173,6 @@
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 adashx.m.taobao.com
-||192.168.112.2o7.net^
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 adash.m.taobao.com
