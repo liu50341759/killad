@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-06 09:57:09
+! Last Modified: 2024-12-06 14:34:28
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -807,7 +807,6 @@
 127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 cdn.appnext.com
-||192.168.112.2o7.net^
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 events.mz.unity3d.com
 127.0.0.1 umeng.com.gds.alibabadns.com
@@ -1173,6 +1172,7 @@
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 adashx.m.taobao.com
+||192.168.112.2o7.net^
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 adash.m.taobao.com
