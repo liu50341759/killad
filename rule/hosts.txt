@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-07 02:33:35
+! Last Modified: 2024-12-07 09:55:55
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -595,7 +595,6 @@
 127.0.0.1 s.trafficjam.cn
 127.0.0.1 wkrd.tingyun.com
 127.0.0.1 mon.ad.xelements.cn
-||192.168.112.2o7.net^
 127.0.0.1 imp.ad.xelements.cn
 127.0.0.1 league1.maoyuncloud.cn
 127.0.0.1 androidads4-6.adcolony.com
@@ -1206,6 +1205,7 @@
 127.0.0.1 juxiao.mediav.com
 127.0.0.1 material-ssl.mediav.com
 127.0.0.1 material.mediav.com
+||192.168.112.2o7.net^
 127.0.0.1 max-l.mediav.com
 127.0.0.1 max.mediav.com
 127.0.0.1 mvp.mediav.com
