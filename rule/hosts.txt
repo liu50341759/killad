@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-12 02:34:32
+! Last Modified: 2024-12-12 09:57:44
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -366,6 +366,7 @@
 127.0.0.1 adbs.ximalaya.com
 127.0.0.1 dns.ximalaya.com
 127.0.0.1 mobwsa.ximalaya.com
+||192.168.112.2o7.net^
 127.0.0.1 location.ximalaya.com
 127.0.0.1 xdcs-collector.ximalaya.com
 127.0.0.1 events.appsflyer.com
@@ -696,7 +697,6 @@
 127.0.0.1 www.ad5lm.net
 127.0.0.1 zls.xz6d.com
 127.0.0.1 spl.ztvx8.com
-||192.168.112.2o7.net^
 127.0.0.1 pv.dakawm.cc
 127.0.0.1 jpg.mengbingyuan.com
 127.0.0.1 y76.ylems.club
