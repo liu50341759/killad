@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-16 10:01:53
+! Last Modified: 2024-12-16 14:35:55
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -134,6 +134,7 @@
 127.0.0.1 omgmta.play.aiseet.atianqi.com
 127.0.0.1 mtrace.play.aiseet.atianqi.com
 127.0.0.1 btrace.play.aiseet.atianqi.com
+||192.168.112.2o7.net^
 127.0.0.1 news-l.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
@@ -423,7 +424,6 @@
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 sms.ads.oppomobile.com
-||192.168.112.2o7.net^
 127.0.0.1 b1.ads.oppomobile.com
 127.0.0.1 bjdata.ads.oppomobile.com
 127.0.0.1 data-id.ads.oppomobile.com
