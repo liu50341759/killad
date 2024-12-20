@@ -1,9 +1,8 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-20 20:44:48
+! Last Modified: 2024-12-21 02:30:51
 ! Homepage: https://github.com/liu50341759/killad
 
-||192.168.112.2o7.net^
 127.0.0.1 localhost
 ::1 localhost
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
@@ -184,6 +183,7 @@
 127.0.0.1 ctr.hd.sohu.com
 127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 pv.hd.sohu.com
+||192.168.112.2o7.net^
 127.0.0.1 vstat.my.tv.sohu.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 wl.hd.sohu.com
