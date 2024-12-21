@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-21 14:29:45
+! Last Modified: 2024-12-21 20:40:49
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -610,10 +610,10 @@
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 xunlei.adx.admaster.com.cn
+||192.168.112.2o7.net^
 127.0.0.1 advertpay.vip.xunlei.com
 127.0.0.1 config.adview.cn
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
-||192.168.112.2o7.net^
 127.0.0.1 log.umsns.com
 127.0.0.1 s.youmi.net
 127.0.0.1 r.youmi.net
