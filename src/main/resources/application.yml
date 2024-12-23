@@ -18,29 +18,11 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: AdGuard 基础过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-
-      - name: AdGuard 移动广告过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-
-      - name: AdGuard 防跟踪保护过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-
-      - name: AdGuard URL跟踪过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-
-      - name: AdGuard 恼人广告过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-
-      - name: AdGuard 解除搜索广告和自我推销过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
-
-      - name: AdGuard 中文过滤器
-        path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
-
-      - name: 大圣净化
-        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+      - name: xndeye整合规则
+        path: https://raw.githubusercontent.com/xndeye/adblock_list/beta/rule/easylist.txt
+      
+      - name: 217heidai规则1
+        path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
       - name: AWAvenue-Adblock-Rule
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
@@ -51,8 +33,8 @@ application:
       - name: Cats-Team AdBlock List Lite
         path: https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
-      - name: 1Hosts (Lite)
-        path: https://o0.pages.dev/Lite/adblock.txt
+      - name: 217heidai规则2
+        path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
       - name: hagezi/dns-blocklists pro
         path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
