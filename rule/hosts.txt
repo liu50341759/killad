@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-12-23 09:50:39
+! Last Modified: 2024-12-23 14:33:18
 ! Homepage: https://github.com/liu50341759/killad
 
 127.0.0.1 localhost
@@ -503,6 +503,7 @@
 127.0.0.1 adpai.thepaper.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 fbapi.guguread.com
+||192.168.112.2o7.net^
 127.0.0.1 jrad.jd.com
 127.0.0.1 api.adnet.mob.com
 127.0.0.1 tracking.ad-survey.com
@@ -664,7 +665,6 @@
 127.0.0.1 dpush-api.domob.cn
 127.0.0.1 engine.lvehaisen.com
 127.0.0.1 sdk.tf.360.cn
-||192.168.112.2o7.net^
 127.0.0.1 sdkrec.tf.360.cn
 127.0.0.1 sdk.s.360.cn
 127.0.0.1 me.cpatrk.net
