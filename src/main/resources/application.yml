@@ -33,10 +33,10 @@ application:
       - name: hagezi/dns-blocklists pro
         path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
 
-      - name: ADS by qiuxiuya # 修正后的规则源，只保留一个，并使用正确的路径
-        path: https://raw.githubusercontent.com/qiuxiuya/qiuxiuya/main/ADS
+      - name: ADS by qiuxiuya
+        path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
-      - name: GOODBYEADS # 修正后的缩进
+      - name: GOODBYEADS
         path: https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt
 
     # 本地规则文件
