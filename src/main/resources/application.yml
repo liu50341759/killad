@@ -21,9 +21,6 @@ application:
       - name: xndeye整合规则
         path: https://raw.githubusercontent.com/xndeye/adblock_list/beta/rule/easylist.txt
 
-      - name: 217heidai规则1
-        path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-
       - name: Cats-Team AdBlock List Lite
         path: https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
