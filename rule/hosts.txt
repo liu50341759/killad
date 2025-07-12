@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-07-12 14:37:17
+! Last Modified: 2025-07-12 20:51:53
 ! Homepage: https://github.com/liu50341759/killad
 
 ||192.168.112.2o7.net^
