@@ -1,5 +1,5 @@
 [liu50341759 Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-08-19 21:00:34
+! Last Modified: 2026-08-20 02:45:27
 ! Homepage: https://github.com/liu50341759/killad
 
